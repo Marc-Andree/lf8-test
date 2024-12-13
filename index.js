@@ -1,2 +1,2 @@
 console.log('Hello World!')
-//ist der proxy nötig?
+//ist der proxy nötig? Nein ist er nicht
